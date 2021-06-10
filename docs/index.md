@@ -33,11 +33,11 @@ Type: 작성중
 
 - [**NS홈쇼핑(주)**](http://pr.nsmall.com/index.do)
     - 이지쇼핑개발팀
-    - DevOps Engineer
+    - Cloud Engineer, DevOps Engineer
     - 근무기간:  2020. 3. 15 -
 - [**BithumbKorea**](https://www.bithumbcorp.com/ko/company/aboutus.php)
     - 인프라팀
-    - DevOps Engineer
+    - Cloud Engineer, DevOps Engineer
     - 근무기간: 2019. 9. 23 ~ 2020. 3. 3(5개월)
 - [**Rsupport(주)**](https://www.rsupport.com/ko-kr/company/overview/)
     - 연구개발본부(R&D) 클라우드기술팀
