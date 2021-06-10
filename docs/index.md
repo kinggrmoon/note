@@ -6,6 +6,7 @@ Last Edited By: GR moon
 Last Edited Time: 2021년 1월 22일 오후 8:00
 Type: 작성중
 
+<!--
 참고링크
 
 [https://hyunseob.github.io/resume/](https://hyunseob.github.io/resume/)
@@ -16,14 +17,17 @@ Type: 작성중
 
 [https://blog.outsider.ne.kr/1234](https://blog.outsider.ne.kr/1234)
 
-# 소개
+-->
 
+# 소개
+<!--
 ![%E1%84%80%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%A8%20%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A5(2020%E1%84%82%E1%85%A7%E1%86%AB%20%E1%84%92%E1%85%A1%E1%84%87%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5)%2034a86578d0734896923ae64cc2a0ddf1/IMG_5509.jpg](%E1%84%80%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%A8%20%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A5(2020%E1%84%82%E1%85%A7%E1%86%AB%20%E1%84%92%E1%85%A1%E1%84%87%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5)%2034a86578d0734896923ae64cc2a0ddf1/IMG_5509.jpg)
+-->
 
 - 이름: 문광래
 - Email: [**ansrhkdfo@gmail.com**](mailto:ansrhkdfo@gmail.com)
 - Tistory: [**https://kinggrmoon.tistory.com**](https://kinggrmoon.tistory.com/)
-- Github: [**https://github.com/kinggrmoon**](https://github.com/kinggrmoon)
+- Github: [**https://github.com/kinggrmoon**](https://github.com/kinggrmoon), [**https://kinggrmoon.github.io/profile**](https://kinggrmoon.github.io/profile)
 
 안녕하세요. 엔지니어 문광래 입니다. 처음 CDN 서비스를 구축하고 운영하는 시스템 엔지니어 업무로 시작해서 현재 Public Cloud 기반의 DevOps 엔지니어로 역량을 확장해 가고 있습니다. 가장 완벽한 서비스는 사람의 손이 가지 않는 서비스이며 엔지니어가 해야 할일이 없어지는 환경이 최적의 환경이라고 생각합니다. 완벽한 환경을 만들고  관리하면서 놀고 먹을 수 있는 미래를 꿈꾸고 오늘도 달려가고 있습니다.
 
