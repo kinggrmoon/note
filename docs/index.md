@@ -1,22 +1,18 @@
-# 경력 기술서(2020년 하반기)
-
-Created: 2020년 11월 8일 오후 4:06
-Created By: GR moon
-Last Edited By: GR moon
-Last Edited Time: 2021년 1월 22일 오후 8:00
-Type: 작성중
+# 경력 기술서
+<!--
+Created: 2020년 11월 8일 오후 4:06   
+Created By: GR moon   
+Last Edited By: GR moon   
+Last Edited Time: 2021년 1월 22일 오후 8:00   
+Type: 작성중   
+-->
 
 <!--
 참고링크
-
 [https://hyunseob.github.io/resume/](https://hyunseob.github.io/resume/)
-
 [https://jbee.io/career/2020-turnover-2/](https://jbee.io/career/2020-turnover-2/)
-
 [https://github.com/seokju-na/resume](https://github.com/seokju-na/resume)
-
 [https://blog.outsider.ne.kr/1234](https://blog.outsider.ne.kr/1234)
-
 -->
 
 # 소개
@@ -27,7 +23,9 @@ Type: 작성중
 - 이름: 문광래
 - Email: [**ansrhkdfo@gmail.com**](mailto:ansrhkdfo@gmail.com)
 - Tistory: [**https://kinggrmoon.tistory.com**](https://kinggrmoon.tistory.com/)
-- Github: [**https://github.com/kinggrmoon**](https://github.com/kinggrmoon), [**https://kinggrmoon.github.io/profile**](https://kinggrmoon.github.io/profile)
+- Github: 
+    - [**https://github.com/kinggrmoon**](https://github.com/kinggrmoon)
+    - [**https://kinggrmoon.github.io/profile**](https://kinggrmoon.github.io/profile)
 
 안녕하세요. 엔지니어 문광래 입니다. 처음 CDN 서비스를 구축하고 운영하는 시스템 엔지니어 업무로 시작해서 현재 Public Cloud 기반의 DevOps 엔지니어로 역량을 확장해 가고 있습니다. 가장 완벽한 서비스는 사람의 손이 가지 않는 서비스이며 엔지니어가 해야 할일이 없어지는 환경이 최적의 환경이라고 생각합니다. 완벽한 환경을 만들고  관리하면서 놀고 먹을 수 있는 미래를 꿈꾸고 오늘도 달려가고 있습니다.
 
@@ -48,7 +46,8 @@ Type: 작성중
 - [**효성 ITX**](https://www.hyosungitx.com/ko/about/about.itx)
     - CDN사업부 운영기술팀
     - System Engineer
-    - 근무기간: 2008. 1. 2 ~ 2012. 12. 1(4년 10월: 58개월)
+    - 근무기간: 2008. 1. 2 ~ 2012. 12. 1(4년 10월: 58개월)   
+      
 
 # 보유기술 및 사용도구
 - EC2 Linux, RedHat CentOS, Windows NT 환경
@@ -61,10 +60,12 @@ Type: 작성중
 - Openstack(Mitaka, Newton), Kubernetes
 - ETC(Django Framwork)
 - 자격증:
-    - 정보산업기사(한국산업인력공단)(07년 12월)
-    - 정보처리기사(한국산업인력공단)(10년 11월)
-    - 리눅스마스터(한국과학기술원[KAIST])(13년 9월)
+    - AWS Certified Solutions Architect - professional(AWS)(21년 6월)
     - AWS Certified Solutions Architect - Associate(AWS)(20년 12월)
+    - 리눅스마스터(한국과학기술원[KAIST])(13년 9월)
+    - 정보처리기사(한국산업인력공단)(10년 11월)
+    - 정보산업기사(한국산업인력공단)(07년 12월)
+    
 
 # 학력
 - 학점은행 컴퓨터공학사 취득(2010년 2월)
