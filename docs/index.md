@@ -92,7 +92,7 @@ NS홈쇼핑 혁신 프로젝트에서 DevOps Engineer 역할을 수행하고 있
     - ECS 기반 Sonarqube 구성 및 운영
     - ECS 기반 Redmine 구성 및 운영
 - Cloud MSP 계약 진행
-- 보안 | 모니터링 환경 구성
+- 보안 & 모니터링 환경 구성
     - AWS WAFv2 보안 환경 구성
     - CloudWatch, S3, Athena, Glue 기반 log 수집 및 Dashbord 구성
 - Serverless Framework를 통한 인프라 배포 및  관리
@@ -112,7 +112,7 @@ From On-Premise to AWS Cloud 프로젝트, 2019. 9. 23 ~ 2020. 3. 3
 - 하이브리드 클라우드 아키텍쳐 구상 및 구현
     - 하이브리드 클라우드 환경의 AWS Route53을 활용한 Private DNS 구상 및 구현
     - On-Premise DMZ Zone의 서버 군을 AWS환경으로 구성하여 Private Zone(IDC)과 연결 시 기능, 성능 이슈 체크 환경 구성(구성: ELB, EC2, AutoScaling, Zabbix, Grafana, AWS VPN)
-    - AWS VPN 구성(AWS VPC to On-Premise | On-Premise to AWS VPC)
+    - AWS VPN 구성(AWS VPC to On-Premise & On-Premise to AWS VPC)
     - VPC 보안 모델 구상: Proxy(Squid)를 활용한 Outbound 통신 제어
     - NLB-ALB(with Lambda) 구현을 통한 EIP-TLS 활용 구상(샘플 환경 구성)
 - Atlassian Bitbucket 을 통한 형상 관리 업무수행
