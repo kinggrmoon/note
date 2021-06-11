@@ -17,7 +17,7 @@ Type: 작성중
 
 # 소개
 
-![IMG_5509.jpg](IMG_5509.jpg)
+![IMG_5509.jpeg](IMG_5509.jpeg)
 
 - 이름: 문광래
 - Email: [**ansrhkdfo@gmail.com**](mailto:ansrhkdfo@gmail.com)
