@@ -15,6 +15,8 @@ Type: 작성중
 [https://blog.outsider.ne.kr/1234](https://blog.outsider.ne.kr/1234)
 -->
 
+date: "Last compiled on `r format(Sys.time(), '%d %B, %Y')`"
+
 # 소개
 <!--
 ![%E1%84%80%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%A8%20%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A5(2020%E1%84%82%E1%85%A7%E1%86%AB%20%E1%84%92%E1%85%A1%E1%84%87%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5)%2034a86578d0734896923ae64cc2a0ddf1/IMG_5509.jpg](%E1%84%80%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%A8%20%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A5(2020%E1%84%82%E1%85%A7%E1%86%AB%20%E1%84%92%E1%85%A1%E1%84%87%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5)%2034a86578d0734896923ae64cc2a0ddf1/IMG_5509.jpg)
@@ -27,14 +29,14 @@ Type: 작성중
     - [**https://github.com/kinggrmoon**](https://github.com/kinggrmoon)
     - [**https://kinggrmoon.github.io/profile**](https://kinggrmoon.github.io/profile)
 
-안녕하세요. 엔지니어 문광래 입니다. 처음 CDN 서비스를 구축하고 운영하는 시스템 엔지니어 업무로 시작해서 현재 Public Cloud 기반의 DevOps 엔지니어로 역량을 확장해 가고 있습니다. 가장 완벽한 서비스는 사람의 손이 가지 않는 서비스이며 엔지니어가 해야 할일이 없어지는 환경이 최적의 환경이라고 생각합니다. 완벽한 환경을 만들고  관리하면서 놀고 먹을 수 있는 미래를 꿈꾸고 오늘도 달려가고 있습니다.
+안녕하세요. 엔지니어 문광래 입니다. 처음 CDN 서비스를 구축하고 운영하는 시스템 엔지니어 업무로 시작해서 현재 Public Cloud 기반 인프라환경에서 DevOps 엔지니어로 역량을 확장해 가고 있습니다. 가장 완벽한 인프라는 사람의 손이 가지 않는 것이며 엔지니어가 해야 할일이 없어지는 환경이 최적의 환경이라고 생각합니다. 완벽한 환경을 만들고 관리하면서 놀고 먹을 수 있는 미래를 꿈꾸고 오늘도 달려가고 있습니다.
 
 # 경력
 
 - [**NS홈쇼핑(주)**](http://pr.nsmall.com/index.do)
     - 이지쇼핑개발팀
     - Cloud Engineer, DevOps Engineer
-    - 근무기간:  2020. 3. 15 -
+    - 근무기간:  2020. 3. 15 - 
 - [**BithumbKorea**](https://www.bithumbcorp.com/ko/company/aboutus.php)
     - 인프라팀
     - Cloud Engineer, DevOps Engineer
@@ -71,7 +73,7 @@ Type: 작성중
 - 학점은행 컴퓨터공학사 취득(2010년 2월)
 - 인하공업전문대 컴퓨터시스템과 전문학사 취득(2002년 3월~ 2008년 2월)
 
-# Work Experience 및 Project
+# Work Experience 및 Project   
 
 > ### NS홈쇼핑(주), 2020. 3. 15 -
 ---
