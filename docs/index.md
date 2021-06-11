@@ -75,7 +75,7 @@ Type: 작성중
 
 > # Work Experience 및 Project   
 
-> ### NS홈쇼핑(주), 2020. 3. 15 -
+>> ### NS홈쇼핑(주), 2020. 3. 15 -
 ---
 
 **Description.**   
@@ -97,7 +97,7 @@ NS홈쇼핑 혁신 프로젝트에서 DevOps Engineer 역할을 수행하고 있
     - CloudWatch, S3, Athena, Glue 기반 log 수집 및 Dashbord 구성
 - Serverless Framework를 통한 인프라 배포 및  관리
 
-> ### Bithumb Korea, 2019. 9. 23 - 2020. 3. 3
+>> ### Bithumb Korea, 2019. 9. 23 - 2020. 3. 3
 ---
 
 **Description.**   
@@ -116,7 +116,7 @@ From On-Premise to AWS Cloud 프로젝트, 2019. 9. 23 ~ 2020. 3. 3
 - Atlassian Bitbucket 을 통한 형상 관리 업무수행
 - Atlassian Bamboo 배포 업무 수행
 
-> ### Rsupport(주), 2012. 12. 3 - 2019. 9. 21
+>> ### Rsupport(주), 2012. 12. 3 - 2019. 9. 21
 ---
 
 **Description.**   
@@ -149,7 +149,7 @@ From On-Premise to AWS Cloud 프로젝트(RemoteCall, RemoteView), 2012. 12. 3 ~
 - [ADD]
 - [ADD]
 
-> ### 효성ITX(주), 2008. 1. 2 - 2012. 11.30
+>> ### 효성ITX(주), 2008. 1. 2 - 2012. 11.30
 ---
 
 **Description.**
