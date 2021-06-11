@@ -15,12 +15,9 @@ Type: 작성중
 [https://blog.outsider.ne.kr/1234](https://blog.outsider.ne.kr/1234)
 -->
 
-date: "Last compiled on `r format(Sys.time(), '%d %B, %Y')`"
-
 # 소개
-<!--
-![%E1%84%80%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%A8%20%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A5(2020%E1%84%82%E1%85%A7%E1%86%AB%20%E1%84%92%E1%85%A1%E1%84%87%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5)%2034a86578d0734896923ae64cc2a0ddf1/IMG_5509.jpg](%E1%84%80%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%A8%20%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A5(2020%E1%84%82%E1%85%A7%E1%86%AB%20%E1%84%92%E1%85%A1%E1%84%87%E1%85%A1%E1%86%AB%E1%84%80%E1%85%B5)%2034a86578d0734896923ae64cc2a0ddf1/IMG_5509.jpg)
--->
+
+![IMG_5509.jpg](IMG_5509.jpg)
 
 - 이름: 문광래
 - Email: [**ansrhkdfo@gmail.com**](mailto:ansrhkdfo@gmail.com)
