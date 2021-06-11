@@ -120,7 +120,6 @@ From On-Premise to AWS Cloud 프로젝트, 2019. 9. 23 ~ 2020. 3. 3
 
 > ### Rsupport(주), 2012. 12. 3 - 2019. 9. 21
 ---
-
 **Description.**
 
 Rsuport ASP 서비스(Remotecall, Remoteview, Remotemeeting, Mobizen등) 구성 및 운영 업무를 수행하였습니다.
@@ -155,7 +154,6 @@ From On-Premise to AWS Cloud 프로젝트(RemoteCall, RemoteView), 2012. 12. 3 ~
 
 > ### 효성ITX(주), 2008. 1. 2 - 2012. 11.30
 ---
-
 **Description.**
 
 효성ITX CDN사업부에서 CDN 서비스 구성 및 운영을 수행하였습니다.
