@@ -20,7 +20,7 @@ Type: 작성중
 <!--
 ![IMG_5509.jpeg](IMG_5509.jpeg)
 -->
-<img src = "/img/profile_image.jpeg" width="40%">
+<img src = "profile_image.jpeg" width="40%">
 
 - 이름: 문광래
 - Email: [**ansrhkdfo@gmail.com**](mailto:ansrhkdfo@gmail.com)
