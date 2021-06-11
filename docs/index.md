@@ -75,6 +75,7 @@ Type: 작성중
 
 > ### NS홈쇼핑(주), 2020. 3. 15 -
 ---
+
 **Description.**
 
 NS홈쇼핑 혁신 프로젝트에서 DevOps Engineer 역할을 수행하고 있습니다. 이지쇼핑 프로젝트는 On-premise 환경의 전통적인 웹 서비스 기반의 쇼핑몰 플랫폼을 AWS Cloud, SPA(vue.js), RESTful 기반으로 전환을 목표로 하는 혁신 프로젝트이다. 
@@ -99,6 +100,7 @@ NS홈쇼핑 혁신 프로젝트에서 DevOps Engineer 역할을 수행하고 있
 
 > ### Bithumb Korea, 2019. 9. 23 - 2020. 3. 3
 ---
+
 **Description.**
 
 Bithumb Korea 코인 거래소 환경 운영 및 인프라 전환을 위한 AWS Architect, DevOps Engineer 업무 수행하였습니다.
@@ -120,6 +122,7 @@ From On-Premise to AWS Cloud 프로젝트, 2019. 9. 23 ~ 2020. 3. 3
 
 > ### Rsupport(주), 2012. 12. 3 - 2019. 9. 21
 ---
+
 **Description.**
 
 Rsuport ASP 서비스(Remotecall, Remoteview, Remotemeeting, Mobizen등) 구성 및 운영 업무를 수행하였습니다.
@@ -154,6 +157,7 @@ From On-Premise to AWS Cloud 프로젝트(RemoteCall, RemoteView), 2012. 12. 3 ~
 
 > ### 효성ITX(주), 2008. 1. 2 - 2012. 11.30
 ---
+
 **Description.**
 
 효성ITX CDN사업부에서 CDN 서비스 구성 및 운영을 수행하였습니다.
