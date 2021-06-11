@@ -132,7 +132,7 @@ Rsupport IT 인프라의 전반적 업무를 수행하였습니다.(AWS Architec
     - [infra] PublicCloud(AWSCloud, MSCloud, KTUcloud, Alibabacloud)  VMWare, Linux(Ubuntu, CentOS), WinNT, Openstack(Mitaka, Newton)
     - [Application] Zabbix, GDNS(F5), Apache, Tomcat, Java Spring,RebitMQ, Redis, CouchBase, Open Source Software(ELK, influxdb, telegraf, grafana, redmine, gitlab)
     - [Language] Python, PHP, ShellScript, yaml
-- [] 모니터링 환경 구축 및 백업 자동화(DB, Log)
+- [Project] 모니터링 환경 구축 및 백업 자동화(DB, Log)
 - [Project] Remotemeeting 서비스 런칭 프로젝트, 2018. 7 ~ 2019. 7
 - [Project] 보안감사이행 프로젝트(1차, 2차, 3차)
   - {1차}2017.09.04 ~ 09.29
