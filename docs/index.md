@@ -80,7 +80,7 @@ date: "Last compiled on `r format(Sys.time(), '%d %B, %Y')`"
 
 **Description.**
 
-NS홈쇼핑 혁신 프로젝트에서 DevOps Engineer 역할을 수행하고 있습니다. 이지쇼핑 프로젝트는 On-premise 환경의 전통적인 웹 서비스 기반의 쇼핑몰 플랫폼을 AWS Cloud, SPA(vue.js), RESTful 기반으로 전환을 목표로 하는 혁신 프로젝트이다. 
+NS홈쇼핑 혁신 프로젝트에서 DevOps Engineer 역할을 수행하고 있습니다. 이지쇼핑 프로젝트는 On-premise 환경의 전통적인 웹 서비스 기반의 쇼핑몰 플랫폼을 AWS Cloud, SPA(vue.js), RESTful 기반으로 전환을 목표로 하는 혁신 프로젝트이다.    
 
 **I Do(did).**
 
@@ -105,7 +105,7 @@ NS홈쇼핑 혁신 프로젝트에서 DevOps Engineer 역할을 수행하고 있
 
 **Description.**
 
-Bithumb Korea 코인 거래소 환경 운영 및 인프라 전환을 위한 AWS Architect, DevOps Engineer 업무 수행하였습니다.
+Bithumb Korea 코인 거래소 환경 운영 및 인프라 전환을 위한 AWS Architect, DevOps Engineer 업무 수행하였습니다.   
 
 **I Do(Did).**
 
@@ -127,11 +127,9 @@ From On-Premise to AWS Cloud 프로젝트, 2019. 9. 23 ~ 2020. 3. 3
 
 **Description.**
 
-Rsuport ASP 서비스(Remotecall, Remoteview, Remotemeeting, Mobizen등) 구성 및 운영 업무를 수행하였습니다.
-
-ASP 서비스 환경 및 사내 인프라의 보안 셋팅 및 보안 업무를 수행하였습니다.
-
-Rsupport IT 인프라의 전반적 업무를 수행하였습니다.(AWS Architect, DevOps Engineer, System Engineer업무를 수행하였습니다.)
+Rsuport ASP 서비스(Remotecall, Remoteview, Remotemeeting, Mobizen등) 구성 및 운영 업무를 수행하였습니다.   
+ASP 서비스 환경 및 사내 인프라의 보안 셋팅 및 보안 업무를 수행하였습니다.   
+Rsupport IT 인프라의 전반적 업무를 수행하였습니다.(AWS Architect, DevOps Engineer, System Engineer 업무를 수행)   
 
 **I Do(Did).**
 
@@ -162,13 +160,10 @@ From On-Premise to AWS Cloud 프로젝트(RemoteCall, RemoteView), 2012. 12. 3 ~
 
 **Description.**
 
-효성ITX CDN사업부에서 CDN 서비스 구성 및 운영을 수행하였습니다.
-
-CDN(스트리밍, Web Caching, Download)인프라 구성 및 서버 구성을 수행하였습니다. 
-
-SKComm 서비스 CDN 인프라 구성 및 운영(싸이월드 사진첩, UCC, 웹 서비스)
-
-CJ Tving 런칭 프로젝트 참여 및 서비스 운영
+효성ITX CDN사업부에서 CDN 서비스 구성 및 운영을 수행하였습니다.   
+CDN(스트리밍, Web Caching, Download)인프라 구성 및 서버 구성을 수행하였습니다.    
+SKComm 서비스 CDN 인프라 구성 및 운영(싸이월드 사진첩, UCC, 웹 서비스)   
+CJ Tving 런칭 프로젝트 참여 및 서비스 운영   
 
 - CJ 방송 송출을 받아주는 FMS 환경 구성
 - FMS,Wowza구성을 통한 nscreen 스트리밍 서비스 구성
