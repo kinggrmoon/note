@@ -15,7 +15,7 @@ Type: 작성중
 [https://blog.outsider.ne.kr/1234](https://blog.outsider.ne.kr/1234)
 -->
 
-# 소개
+> # 소개
 
 <!--
 ![IMG_5509.jpeg](IMG_5509.jpeg)
@@ -29,9 +29,9 @@ Type: 작성중
     - [**https://github.com/kinggrmoon**](https://github.com/kinggrmoon)
     - [**https://kinggrmoon.github.io/profile**](https://kinggrmoon.github.io/profile)
 
-안녕하세요. 엔지니어 문광래 입니다. 처음 CDN 서비스를 구축하고 운영하는 시스템 엔지니어 업무로 시작해서 현재 Public Cloud 기반 인프라환경에서 DevOps 엔지니어로 역량을 확장해 가고 있습니다. 가장 완벽한 인프라는 사람의 손이 가지 않는 것이며 엔지니어가 해야 할일이 없어지는 환경이 최적의 환경이라고 생각합니다. 완벽한 환경을 만들고 관리하면서 놀고 먹을 수 있는 미래를 꿈꾸고 오늘도 달려가고 있습니다.
+안녕하세요. 엔지니어 문광래 입니다. 처음 CDN서비스 인프라를 구축하고 운영하는 시스템 엔지니어 업무로 시작해 현재 Public Cloud 기반 인프라에서 Cloud, DevOps 엔지니어로 역량을 확장해 가고 있습니다. 가장 완벽한 인프라는 사람의 손이 가지않는 것이며 엔지니어가 해야 할일이 없어지는 환경이 최적의 환경이라고 생각합니다. 완벽한 환경을 만들고 관리하면서 놀고 먹을 수 있는 미래를 꿈꾸고 오늘도 달려가고 있습니다.
 
-# 경력
+> # 경력
 
 - [**NS홈쇼핑(주)**](http://pr.nsmall.com/index.do)
     - 이지쇼핑개발팀
@@ -51,7 +51,7 @@ Type: 작성중
     - 근무기간: 2008. 1. 2 ~ 2012. 12. 1(4년 10월: 58개월)   
       
 
-# 보유기술 및 사용도구
+> # 보유기술 및 사용도구
 - EC2 Linux, RedHat CentOS, Windows NT 환경
 - AWS Cloud, MS Azure Cloud, Naver Cloud(api service)
 - Bash script, Python, PHP
@@ -69,25 +69,22 @@ Type: 작성중
     - 정보산업기사(한국산업인력공단)(07년 12월)
     
 
-# 학력
+> # 학력
 - 학점은행 컴퓨터공학사 취득(2010년 2월)
 - 인하공업전문대 컴퓨터시스템과 전문학사 취득(2002년 3월~ 2008년 2월)
 
-# Work Experience 및 Project   
+> # Work Experience 및 Project   
 
 > ### NS홈쇼핑(주), 2020. 3. 15 -
 ---
 
-**Description.**
+**Description.**   
+NS홈쇼핑 혁신 프로젝트에서 DevOps Engineer 역할을 수행하고 있습니다. 이지쇼핑 프로젝트는 On-premise 환경의 전통적인 웹서비스 기반 쇼핑몰 플랫폼을 AWS Cloud, SPA(vue.js), RESTful로 전환을 목표로 하는 혁신 프로젝트입니다.
 
-NS홈쇼핑 혁신 프로젝트에서 DevOps Engineer 역할을 수행하고 있습니다. 이지쇼핑 프로젝트는 On-premise 환경의 전통적인 웹 서비스 기반의 쇼핑몰 플랫폼을 AWS Cloud, SPA(vue.js), RESTful 기반으로 전환을 목표로 하는 혁신 프로젝트이다.    
-
-**I Do(did).**
-
-**Project & Tech Stack.**
-
+**Project & Tech Stack.**   
 이지쇼핑 쇼핑몰 플랫폼 혁신 프로젝트, 2020. 3. 15 ~
 
+**I Do(did).**   
 - Gitflow 기반 GIt 형상 관리 정책 수립(CI)
 - Codecommit - Codebuild - Codepipeline 배포 환경 구성(CD)
 - OSS(Open Source Software), Contener 기반 정적분석, 협업툴 구성 및 운영
@@ -103,16 +100,13 @@ NS홈쇼핑 혁신 프로젝트에서 DevOps Engineer 역할을 수행하고 있
 > ### Bithumb Korea, 2019. 9. 23 - 2020. 3. 3
 ---
 
-**Description.**
-
+**Description.**   
 Bithumb Korea 코인 거래소 환경 운영 및 인프라 전환을 위한 AWS Architect, DevOps Engineer 업무 수행하였습니다.   
 
-**I Do(Did).**
-
-**Project & Tech Stack.**
-
+**Project & Tech Stack.**   
 From On-Premise to AWS Cloud 프로젝트, 2019. 9. 23 ~ 2020. 3. 3
 
+**I Do(Did).**   
 - 하이브리드 클라우드 아키텍쳐 구상 및 구현
     - 하이브리드 클라우드 환경의 AWS Route53을 활용한 Private DNS 구상 및 구현
     - On-Premise DMZ Zone의 서버 군을 AWS환경으로 구성하여 Private Zone(IDC)과 연결 시 기능, 성능 이슈 체크 환경 구성(구성: ELB, EC2, AutoScaling, Zabbix, Grafana, AWS VPN)
@@ -125,33 +119,33 @@ From On-Premise to AWS Cloud 프로젝트, 2019. 9. 23 ~ 2020. 3. 3
 > ### Rsupport(주), 2012. 12. 3 - 2019. 9. 21
 ---
 
-**Description.**
-
+**Description.**   
 Rsuport ASP 서비스(Remotecall, Remoteview, Remotemeeting, Mobizen등) 구성 및 운영 업무를 수행하였습니다.   
 ASP 서비스 환경 및 사내 인프라의 보안 셋팅 및 보안 업무를 수행하였습니다.   
 Rsupport IT 인프라의 전반적 업무를 수행하였습니다.(AWS Architect, DevOps Engineer, System Engineer 업무를 수행)   
 
-**I Do(Did).**
-
-**Project & Tech Stack.**
-
+**Project & Tech Stack.**   
 Remotemeeting 서비스 런칭 프로젝트, 2018. 7 ~ 2019. 7
 
+**I Do(Did).**
 - [ADD]
 - [ADD]
 
-인프라 관리 시스템 개발 프로젝트, 2017. 3 ~ 2018. 3
+인프라 관리 시스템 개발 프로젝트, 2017. 3 ~ 2018. 3   
 
+**I Do(Did).**
 - [ADD]
 - [ADD]
 
 WC300 - BigData 분석 프로젝트(정부지원사업 - [World Class 300](https://worldclass300.org/html/main/sub.htm?subMenu=02&pageNum=02&category=63)), 2015. 3 ~ 2017. 5. 29
 
+**I Do(Did).**   
 - [ADD]
 - [ADD]
 
 From On-Premise to AWS Cloud 프로젝트(RemoteCall, RemoteView), 2012. 12. 3 ~ 2015. 3
 
+**I Do(Did).**   
 - [ADD]
 - [ADD]
 
@@ -159,17 +153,16 @@ From On-Premise to AWS Cloud 프로젝트(RemoteCall, RemoteView), 2012. 12. 3 ~
 ---
 
 **Description.**
-
 효성ITX CDN사업부에서 CDN 서비스 구성 및 운영을 수행하였습니다.   
 CDN(스트리밍, Web Caching, Download)인프라 구성 및 서버 구성을 수행하였습니다.    
 SKComm 서비스 CDN 인프라 구성 및 운영(싸이월드 사진첩, UCC, 웹 서비스)   
 CJ Tving 런칭 프로젝트 참여 및 서비스 운영   
 
+**I Do(Did).**   
 - CJ 방송 송출을 받아주는 FMS 환경 구성
 - FMS,Wowza구성을 통한 nscreen 스트리밍 서비스 구성
 - 대규모 이벤트(슈퍼스타K, 국가대표 축구 중계 등) 모니터링 및 서비스 인프라 증설
 
-# 활동
-
+> # 활동
 - [ADD]
 - [ADD]
