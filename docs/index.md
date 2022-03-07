@@ -58,8 +58,8 @@ Type: 작성중
 - Openstack(Mitaka, Newton), Kubernetes
 - ETC(Django Framwork)
 - 자격증:
-    - AWS Certified Solutions Architect - professional(AWS)(21년 6월)
-    - AWS Certified Solutions Architect - Associate(AWS)(20년 12월)
+    - AWS Certified Solutions Architect - professional(AWS)(21년 6월 7일)
+    - AWS Certified Solutions Architect - Associate(AWS)(20년 12월 21일)
     - 리눅스마스터(한국과학기술원[KAIST])(13년 9월)
     - 정보처리기사(한국산업인력공단)(10년 11월)
     - 정보산업기사(한국산업인력공단)(07년 12월)
