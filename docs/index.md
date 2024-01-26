@@ -22,44 +22,58 @@ Type: 작성중
 <img src = "profile_image.jpeg" width="40%"><br>
 - 이름: 문광래
 - Email: [**ansrhkdfo@gmail.com**](mailto:ansrhkdfo@gmail.com)
+- Notion: [Profile](https://perfect-akubra-372.notion.site/f10737b3c8274ae0bb7eddfea1adc637)
+- Linkedin: [Profile](https://www.linkedin.com/in/grmoon20221217/)
 - Tistory: [**https://kinggrmoon.tistory.com**](https://kinggrmoon.tistory.com/)
-- Github: 
+- Github:
+    - [**https://kinggrmoon.github.io/profile**](https://kinggrmoon.github.io/profile)
     - [**https://github.com/kinggrmoon**](https://github.com/kinggrmoon)
-    - [**https://kinggrmoon.github.io/profile**](https://kinggrmoon.github.io/profile)   
   
-안녕하세요. 엔지니어 문광래 입니다. 처음 CDN서비스 인프라를 구축하고 운영하는 시스템 엔지니어 업무로 시작해 현재 Public Cloud 기반 인프라에서 Cloud, DevOps 엔지니어로 역량을 확장해 가고 있습니다. 가장 완벽한 인프라는 사람의 손이 가지않는 것이며 엔지니어가 해야 할일이 없어지는 환경이 최적의 환경이라고 생각합니다. 완벽한 환경을 만들고 관리하면서 놀고 먹을 수 있는 미래를 꿈꾸고 오늘도 달려가고 있습니다.   
+```
+클라우드 엔지니어, 데브옵스 엔지니어로서 다양한 환경에서 16년간 경험을 쌓았습니다.
+코로케이션, 호스팅, CDN부터 클라우드와 IDC 결합까지, 다양한 프로젝트를 성공적으로 이끌었습니다.
+클라우드 인프라 구축을 IaC(Terraform)으로 생성하고 관리하는데 집중하고 있습니다.
+Devops 와 클라우드 기술을 강화를 위해 CKA, AWS(SAA/SAP) 자격증을 획득하였습니다.
+테크 트렌드를 주도하는 것에 열정적이며, 지속적인 학습과 성장을 추구합니다.   
+```
 
 > # 경력
-- [**NS홈쇼핑(주)**](http://pr.nsmall.com/index.do)
+- [**11번가**](https://www.11stcorp.com/)
+    - 인프라담당 클라우드엔지니어링팀
+    - Cloud Engineer, DevOps Engineer
+    - 근무기간:  2023. 6. 26 - (근무중)
+- [**NS홈쇼핑**](https://pr.nsmall.com/index.do)
     - 이지쇼핑개발팀
     - Cloud Engineer, DevOps Engineer
-    - 근무기간:  2020. 3. 15 - 
+    - 근무기간:  2020. 3. 15 - 2023. 6. 23(3년 3개월: 39개월)
 - [**BithumbKorea**](https://www.bithumbcorp.com/ko/company/aboutus.php)
     - 인프라팀
     - Cloud Engineer, DevOps Engineer
     - 근무기간: 2019. 9. 23 ~ 2020. 3. 3(5개월)
-- [**Rsupport(주)**](https://www.rsupport.com/ko-kr/company/overview/)
+- [**주식회사 Rsupport**](https://www.rsupport.com/ko-kr/company/overview/)
     - 연구개발본부(R&D) 클라우드기술팀
     - Cloud Engineer, System Engineer
     - 근무기간:  2012. 12. 3 ~ 2019. 9. 20(6년 9월: 81개월)
-- [**효성 ITX**](https://www.hyosungitx.com/ko/about/about.itx)
+- [**주식회사 효성ITX**](https://www.hyosungitx.com/ko/main.do)
     - CDN사업부 운영기술팀
     - System Engineer
     - 근무기간: 2008. 1. 2 ~ 2012. 12. 1(4년 10월: 58개월)   
       
 > # 보유기술 및 사용도구
-- EC2 Linux, RedHat CentOS, Windows NT 환경
+- 운영 OS: Linux(EC2 Linux, RedHat CentOS 등), Windows 계열 OS
 - AWS Cloud, MS Azure Cloud, Naver Cloud(api service)
-- Bash script, Python, PHP
+- VMWare, Server(HP, Dell, IBM 등) 
+- Terraform, Shell script, Python, PHP
 - CI/CD Tool(DevOps Tool)
-    - Docker, Git, Ansible, Serverless Framework
+    - Git(github, gitlib), Ansible, Serverless Framework
     - Atlassian software(Bitbucket, Bamboo, Jira)
 - Open Source Software(ELK, influxdb, telegraf, grafana, redmine, gitlab, sonarqube외 다수)
-- Openstack(Mitaka, Newton), Kubernetes
+- Kubernetes, Openstack(Mitaka, Newton)
 - ETC(Django Framwork)
 - 자격증:
-    - AWS Certified Solutions Architect - professional(AWS)(21년 6월 7일)
-    - AWS Certified Solutions Architect - Associate(AWS)(20년 12월 21일)
+    - CKA: Certified Kubernetes Administrator (23년 11월)
+    - AWS Certified Solutions Architect - professional(AWS)(21년 6월)
+    - AWS Certified Solutions Architect - Associate(AWS)(20년 12월)
     - 리눅스마스터(한국과학기술원[KAIST])(13년 9월)
     - 정보처리기사(한국산업인력공단)(10년 11월)
     - 정보산업기사(한국산업인력공단)(07년 12월)
@@ -70,11 +84,48 @@ Type: 작성중
 
 > # Work Experience 및 Project   
 
-> ### NS홈쇼핑(주), 2020. 3. 15 -
+> ### 11번가, 2023. 6. 26 -
+**Description.**   
+11번가 서비스의 클라우드 환경 구성 및 운영 업무를 수행하였습니다.   
+AWS환경에 포커싱하여 서비스 운영, 비용 최적화, 신규 프로젝트를 위한 설계 및 구성 업무를 수행하고 있습니다. 배포파이프라인을 구성하고 서비스 배포가 원활하게 이루어질수 있도록 업무를 수행하고 있습니다.
+
+**Tech Stack & Project.**   
+- [Tech Stack] 
+    - [infra] PublicCloud(AWSCloud), Linux(AWS Linux, Ubuntu)
+    - [Application] Datadog, Whatap, Java Spring, AWS memcache(Redis), Open Source Software(Grafana, Jenkins)
+    - [Language] Python, Shell Script, Terraform
+
+**I Do(did).** 
+- 주요 서비스: 11st 아마존(검색, 주문), 우주패스, 클로버게임 
+- 클라우드 아키텍처 설계:
+    - 비즈니스 요구사항을 기반으로 클라우드 인프라 아키텍처를 설계하고 구성
+    - 서버, 네트워크, 스토리지, 보안 등 다양한 구성 요소를 고려하여 확장 가능하고 안정적인 아키텍처를 구축
+- 인프라스트럭처 코드 (IaC) 작성 및 배포:
+    - IaC 도구를 사용하여 인프라스트럭처를 코드로 정의하고 자동화
+    - 코드 기반의 인프라 관리를 통해 배포 및 관리를 효율적으로 처리
+- 클라우드 서비스 활용 및 비용 최적화:
+    - AWS 클라우드 서비스를 활용하여 시스템을 구성하고 관리
+    - 컴퓨팅, 스토리지, 데이터베이스, 네트워킹 등 다양한 서비스를 활용하여 비용과 성능을 최적화
+    - 클라우드 리소스 사용량을 모니터링하고 비용을 최적화하는 전략 수립
+    - 예산을 준수하면서 비즈니스 요구를 충족시키는 최적의 리소스 구성을 유지
+- 배포 및 자동화:
+    - CI/CD 파이프라인을 구축하여 애플리케이션 배포를 자동화하고 지속적 통합과 지속적 배포를 실현
+    - 스케일링 및 로드 밸런싱과 같은 자동화된 운영 작업을 구현
+- 운영 및 모니터링:
+    - 클라우드 환경에서 서비스를 운영하고 성능 모니터링 및 로깅 시스템을 구축
+    - 장애 징후를 식별하고 대응하여 시스템의 가용성과 신뢰성을 유지
+- 보안 및 규정 준수:
+    - 클라우드 보안 모범 사례를 준수하고, 데이터 보호 및 접근 통제를 관리
+    - 규제 및 보안 정책을 준수하여 시스템의 안정성을 보장
+  
+
+> ### NS홈쇼핑(주), 2020. 3. 15 - 2023. 6. 23
 ---
 
 **Description.**   
-NS홈쇼핑 혁신 프로젝트에서 DevOps Engineer 역할을 수행하고 있습니다. 이지쇼핑 프로젝트는 On-premise 환경의 전통적인 웹서비스 기반 쇼핑몰 플랫폼을 AWS Cloud, SPA(vue.js), RESTful로 전환을 목표로 하는 혁신 프로젝트입니다.
+NS홈쇼핑 혁신 프로젝트에서 DevOps Engineer 역할을 수행하였습니다. 이지쇼핑 프로젝트는 On-premise 환경의 전통적인 웹서비스 기반 쇼핑몰 플랫폼을 AWS Cloud, SPA(vue.js), RESTful로 전환을 목표로 하는 프로젝트 입니다.(2020. 3 ~ 2021 .3)
+
+차세대 모바일 서비스 오픈 프로젝트에 프라이빗 클라우드 파트 PL로 참여 하였습니다. 컨테이너 기반의 쿠버네티스 클러스터를 구축하고 MSA 아키텍쳐로 설계된 모바일서비스의 개발 및 오픈을 위한 프로젝트 입니다.(2022. 7 ~ 2023. 6)
 
 **Tech Stack & Project.**
 - [Tech Stack]
